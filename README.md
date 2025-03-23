@@ -1,2 +1,2 @@
-# javascript-projects-
-all my javascript practice projects 
+# Javascript-Projects
+All my javascript practice projects 
