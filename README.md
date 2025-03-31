@@ -11,7 +11,7 @@ The Counter App is a simple web application that allows users to increment, decr
 
 ## Live Demo
 
-[View Live Project](live-project-url)
+[View Live Project](https://counter-app-smcodex.netlify.app/)
 
 ## Counter App Screenshot 📷
 
